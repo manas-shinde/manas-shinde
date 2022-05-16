@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="/src/Wavy%20Hand%20GIF%201.gif" width="60">, I'm Manas Shinde</h1>
+<h1 align="center">Hi <img src="/src/Wavy%20Hand%20GIF%201.gif" width="60">, I'm Manas Shinde 👨‍💻</h1>
 <h3 align="center">A passionate Full Stack developer from India 🇮🇳</h3>
 <h3 align="center"><strong>Namaste Duniya !!</strong></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas-shinde&label=Profile%20views&color=0e75b6&style=flat" alt="manas-shinde" /> </p>
