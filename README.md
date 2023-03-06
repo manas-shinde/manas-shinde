@@ -3,14 +3,14 @@
 <h3 align="center"><strong>Namaste Duniya !!</strong></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas-shinde&label=Profile%20views&color=0e75b6&style=flat" alt="manas-shinde" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot and hibernate**
+- 🌱 I’m currently learning **Django , React**
 
-- 💬 Ask me about **Java, NodeJs, JavaScript**
+- 💬 Ask me about **Java, NodeJs, JavaScript, Python**
 
 - 📫 How to reach me **manashinde11@gmail.com**
 
 ## 👨🏻‍💻 About 
-Tech enthusiast, a hustler with a desire to learn new things - Obedient and punctual -, love to research and do any work with zeal - looking to improve my skills through this fantastic opportunity in the Software Student Training in Computer Science Program and contribute as much as I can to building a global community.
+Tech enthusiast, a hustler with a desire to learn new things - Obedient and punctual -, love to research and do any work with zeal - Experienced Associated SDE with a strong background in Java and Python. Skilled in full-stack development, software architecture, and agile methodology. Passionate about building high-quality software that delivers value to users. Seeking new opportunities to use my skills to make a positive impact in the tech industry..
 
 ##
 
