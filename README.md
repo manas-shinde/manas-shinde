@@ -1,4 +1,4 @@
-<h1 align="center">Namaste, everyone!  <img src="/src/Wavy%20Hand%20GIF%201.gif" width="28px" alt="👋"></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="28px" height="30px" /> Namaste, everyone!</h1>
 <!-- 
 <h1 align="center">Hi <img src="/src/Wavy%20Hand%20GIF%201.gif" width="60">, I'm Manas Shinde 👨‍💻</h1> 
 <h3 align="center">A passionate Full Stack developer from India 🇮🇳</h3>
