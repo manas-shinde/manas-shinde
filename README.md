@@ -88,11 +88,24 @@ Some alertnative suggestions for about section
   </a>
   <a href="https://github.com/manas-shinde">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manas-shinde&theme=transparent" />
-  </a>
-  <a href="https://github.com/manas-shinde">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-shinde&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+  </a>    
+  
+<!--  <a href="https://github.com/manas-shinde">   <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=manas-shinde&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&&theme=transparent" /> -->
+<p align="center" >
+       <a  href="https://github.com/manas-shinde">
+           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-shinde&&show_icons=true&theme=transparent&text_color=8b8b8b&bg_color=0000&hide_border=true&layout=compact&custom_title=Languages%20I%20Use&langs_count=10" alt="manas-shinde"/>
+       </a>
+    </p>
+<!--   </a> -->
 </p>
+
+<table style="border:none;margin:0 auto">
+  <tr style="border:none;">
+    <td style="border:none;"><a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=manas-shinde&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&text_color=8b8b8b&bg_color=0000&hide_border=true&custom_title=manas-shinde%27s%20Github%20Stats" alt="My Stats"/></a></td>
+    <td style="border:none;"><a target="_blank" href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=manas-shinde&theme=transparent&dates=8b8b8b&background=0000&hide_border=true" alt="My Streak"/></a></td>
+  </tr>
+</table>
+<br>
 </details>
 
 <p align="center">
