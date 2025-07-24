@@ -1,6 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="175px"/></a>
-
+<!--
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="28px" height="30px" /> Namaste, everyone!</h1>
+-->
+
+<div align='center'>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&duration=2000&pause=1000&color=04F71E&background=3DFF2000&center=true&vCenter=true&width=435&lines=Namaste+_||_!;My+name+is+Manas+Shinde;An+Software+Engineer" alt="Typing SVG" /></a>
+</div>
 <!-- 
 <h1 align="center">Hi <img src="/src/Wavy%20Hand%20GIF%201.gif" width="60">, I'm Manas Shinde 👨‍💻</h1> 
 <h3 align="center">A passionate Full Stack developer from India 🇮🇳</h3>
